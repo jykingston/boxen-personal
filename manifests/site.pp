@@ -81,7 +81,8 @@ node default {
       'ack',
       'findutils',
       'gnu-tar',
-      'ctags'
+      'ctags',
+      'tree'
     ]:
   }
 
