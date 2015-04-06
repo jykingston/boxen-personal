@@ -82,7 +82,10 @@ node default {
       'findutils',
       'gnu-tar',
       'ctags',
-      'tree'
+      'tree',
+      'htop-osx',
+      'iftop',
+      'tmux'
     ]:
   }
 
