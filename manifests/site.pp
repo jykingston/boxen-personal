@@ -84,6 +84,7 @@ node default {
       'tree',
       'htop-osx',
       'iftop',
+      'pwgen',
       'tmux'
     ]:
   }
