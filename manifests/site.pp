@@ -86,6 +86,8 @@ node default {
       'iftop',
       'pwgen',
       'tmux'
+      'wget'
+      'pwgen'
     ]:
   }
 
