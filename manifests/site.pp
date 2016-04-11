@@ -87,7 +87,6 @@ node default {
       'pwgen',
       'tmux'
       'wget'
-      'pwgen'
     ]:
   }
 
